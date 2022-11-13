@@ -18,7 +18,7 @@ const Navbar = () => {
       <img src={Toplogo} alt="Metabnb Logo" id="toplogo"/>
         <ul id="navlink">
           <li className="home">
-          <Link to="/">
+          <Link to="/metabnb">
             Home
           </Link>
           </li>
