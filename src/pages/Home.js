@@ -30,9 +30,9 @@ const Home = () => {
       <div className="heading_box">
       <div className="home-heading">
         <h1 className="home-heading-h1">
-          Rent a <span className="heading-text">Place</span> away from <span className="heading-text">Home</span> in the{" "}
-          <span className="heading-text">Metaverse</span>
+          Rent a <span className="heading-text">Place</span> away from <span className="heading-text">Home</span> in the <span className="heading-text">Metaverse</span>
         </h1>
+        <br />
         <p className="home-heading-p">
           we provide you access to luxury and affordable houses in the
           metaverse, get a chance to turn your imagination to reality at your
@@ -62,7 +62,7 @@ const Home = () => {
       </div>
 
       <div className="body-div">
-        <h2 className="body-heading">Inspiration for your next adventure</h2>
+        <h1 className="body-heading">Inspiration for your next adventure</h1>
        <div className="body-img-div">
         <img src={ImageList1} alt="One" />
         <img src={ImageList2} alt="Two" />
