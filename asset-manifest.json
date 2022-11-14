@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/metabnb/static/css/main.11f853b3.css",
-    "main.js": "/metabnb/static/js/main.bd167025.js",
+    "main.css": "/metabnb/static/css/main.6f9d383c.css",
+    "main.js": "/metabnb/static/js/main.b027625f.js",
     "static/js/787.5186970a.chunk.js": "/metabnb/static/js/787.5186970a.chunk.js",
     "static/media/imagegroup2.png": "/metabnb/static/media/imagegroup2.470fe9d80ca11fd5e9ed.png",
     "static/media/imagegroup1.png": "/metabnb/static/media/imagegroup1.d5c7398ee115507241ab.png",
@@ -22,12 +22,12 @@
     "static/media/imagelist10.png": "/metabnb/static/media/imagelist10.7e7b6a0908c5da6ceca7.png",
     "static/media/imagelist1.png": "/metabnb/static/media/imagelist1.6310cd3fcb6445db1ee0.png",
     "index.html": "/metabnb/index.html",
-    "main.11f853b3.css.map": "/metabnb/static/css/main.11f853b3.css.map",
-    "main.bd167025.js.map": "/metabnb/static/js/main.bd167025.js.map",
+    "main.6f9d383c.css.map": "/metabnb/static/css/main.6f9d383c.css.map",
+    "main.b027625f.js.map": "/metabnb/static/js/main.b027625f.js.map",
     "787.5186970a.chunk.js.map": "/metabnb/static/js/787.5186970a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11f853b3.css",
-    "static/js/main.bd167025.js"
+    "static/css/main.6f9d383c.css",
+    "static/js/main.b027625f.js"
   ]
 }
