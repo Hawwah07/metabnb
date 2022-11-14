@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/metabnb/static/css/main.21aaa88a.css",
+    "main.css": "/metabnb/static/css/main.d6dbc11d.css",
     "main.js": "/metabnb/static/js/main.b027625f.js",
     "static/js/787.5186970a.chunk.js": "/metabnb/static/js/787.5186970a.chunk.js",
     "static/media/imagegroup2.png": "/metabnb/static/media/imagegroup2.470fe9d80ca11fd5e9ed.png",
@@ -22,12 +22,12 @@
     "static/media/imagelist10.png": "/metabnb/static/media/imagelist10.7e7b6a0908c5da6ceca7.png",
     "static/media/imagelist1.png": "/metabnb/static/media/imagelist1.6310cd3fcb6445db1ee0.png",
     "index.html": "/metabnb/index.html",
-    "main.21aaa88a.css.map": "/metabnb/static/css/main.21aaa88a.css.map",
+    "main.d6dbc11d.css.map": "/metabnb/static/css/main.d6dbc11d.css.map",
     "main.b027625f.js.map": "/metabnb/static/js/main.b027625f.js.map",
     "787.5186970a.chunk.js.map": "/metabnb/static/js/787.5186970a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21aaa88a.css",
+    "static/css/main.d6dbc11d.css",
     "static/js/main.b027625f.js"
   ]
 }
