@@ -904,7 +904,7 @@ z-index: 0;
 
 .home-end-text-div h1 {
     font-family: 'Red Rose';
-font-style: normal;
+font-style: bold;
 font-weight: 700;
 margin-top: 20px;
 font-size: 48px;
@@ -1096,7 +1096,7 @@ height: 50px;
   font-family: "Red Rose";
   
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   /* font-size: 56px; */
   /* line-height: 140%; */
   /* letter-spacing: -0.02em; */
