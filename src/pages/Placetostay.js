@@ -15,6 +15,7 @@ import ImageList13 from "../images/imagelist13.png";
 import ImageList14 from "../images/imagelist14.png";
 import ImageList15 from "../images/imagelist15.png";
 import ImageList16 from "../images/imagelist16.png";
+import Setting from "../images/setting.png";
 import Footer from "../components/Footer"
 
   
@@ -30,7 +31,8 @@ const Placetostay = () => {
       <p>Carbins</p>
       <p>Off-grid</p>
       <p>Farm</p>
-      <input type="text" placeholder="Location"/>
+      <button type="submit" class="location-btn"> Location <img src={Setting} alt='setting' /> </button>
+      
     </div>
     <div className="img-list-body">
         <div className="img-list-body-one">
