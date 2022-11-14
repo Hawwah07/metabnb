@@ -17,7 +17,7 @@ const Footer = () => {
             <img src={Twitter} alt="Twenty-one" />
             <img src={Instagram} alt="Twenty-two" />
             </div>
-            <p> &copy 2022 Metabnb</p>
+            <p> © 2022 Metabnb</p>
             
             </div>
             <div className="bottom-text">
